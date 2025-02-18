@@ -1,0 +1,15 @@
+C:\Users\joao_\source\repos\Design_Patterns\Design_Patterns\bin\Debug\net8.0\Design_Patterns.exe
+C:\Users\joao_\source\repos\Design_Patterns\Design_Patterns\bin\Debug\net8.0\Design_Patterns.deps.json
+C:\Users\joao_\source\repos\Design_Patterns\Design_Patterns\bin\Debug\net8.0\Design_Patterns.runtimeconfig.json
+C:\Users\joao_\source\repos\Design_Patterns\Design_Patterns\bin\Debug\net8.0\Design_Patterns.dll
+C:\Users\joao_\source\repos\Design_Patterns\Design_Patterns\bin\Debug\net8.0\Design_Patterns.pdb
+C:\Users\joao_\source\repos\Design_Patterns\Design_Patterns\obj\Debug\net8.0\Design_Patterns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joao_\source\repos\Design_Patterns\Design_Patterns\obj\Debug\net8.0\Design_Patterns.AssemblyInfoInputs.cache
+C:\Users\joao_\source\repos\Design_Patterns\Design_Patterns\obj\Debug\net8.0\Design_Patterns.AssemblyInfo.cs
+C:\Users\joao_\source\repos\Design_Patterns\Design_Patterns\obj\Debug\net8.0\Design_Patterns.csproj.CoreCompileInputs.cache
+C:\Users\joao_\source\repos\Design_Patterns\Design_Patterns\obj\Debug\net8.0\Design_Patterns.sourcelink.json
+C:\Users\joao_\source\repos\Design_Patterns\Design_Patterns\obj\Debug\net8.0\Design_Patterns.dll
+C:\Users\joao_\source\repos\Design_Patterns\Design_Patterns\obj\Debug\net8.0\refint\Design_Patterns.dll
+C:\Users\joao_\source\repos\Design_Patterns\Design_Patterns\obj\Debug\net8.0\Design_Patterns.pdb
+C:\Users\joao_\source\repos\Design_Patterns\Design_Patterns\obj\Debug\net8.0\Design_Patterns.genruntimeconfig.cache
+C:\Users\joao_\source\repos\Design_Patterns\Design_Patterns\obj\Debug\net8.0\ref\Design_Patterns.dll
